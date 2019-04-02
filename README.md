@@ -2,6 +2,14 @@
 
 BKK Web Talk Example
 
-This project references code from 
+## Resources
 
-- (Snake highlight)[https://codepen.io/anon/pen/XQbWMv]
++ (Gradient UI)[https://uigradients.com]
+
+### Libraries
+
++ (AnimeJS)[https://animejs.com]
+
+### Code Reference
+
++ (Snake highlight)[https://codepen.io/anon/pen/XQbWMv]
